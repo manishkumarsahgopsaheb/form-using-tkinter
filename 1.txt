@@ -1,0 +1,3 @@
+manish, 8888888888, male, 9999999999, paytm, 1
+vibhishan, 7777777777, male, 9999999999, cash, 1
+bipul, 7777777777, male, 9999999999, cash, 0
